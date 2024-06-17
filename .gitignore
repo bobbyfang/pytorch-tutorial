@@ -1,0 +1,11 @@
+.venv*
+*.ckpt
+.vscode
+*output*.png
+*data*
+*.pkl
+# *.json
+*.pyc
+*samples
+!data_loader.py
+/coco
