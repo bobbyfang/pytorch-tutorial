@@ -8,4 +8,5 @@
 *.pyc
 *samples
 !data_loader.py
+!data_utils.py
 /coco
